@@ -57,3 +57,7 @@ INSERT INTO team_pokemon (team_id, pokemon_id) VALUES (4, 7); -- Eevee
 INSERT INTO team_pokemon (team_id, pokemon_id) VALUES (4, 8); -- Vaporeon
 
 
+drop table pokemon;
+drop table second_NF_pokemon;
+drop table first_NF_pokemon;
+drop table imported_pokemon_data;
